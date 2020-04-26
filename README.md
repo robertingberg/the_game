@@ -25,6 +25,7 @@ Arrow up: Drive forward
 Arrow down: Drive backward
 Arrow right: Rotate clockwise
 Arrow left: Rotate counter-clockwise
+ENTER: Start to drive your car.
 ```
 
 ## Run with commandline
